@@ -1,4 +1,5 @@
-title:BraveWish
+title:Brave Weapons Wishlist
+description:A small wishlist for some Brave Weapon set.
 
 // Forbearance - Forbearance (god-pve)
 //notes: tags:god-pve
